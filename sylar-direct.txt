@@ -1,0 +1,18 @@
+payload:
+  - DOMAIN-SUFFIX,myqnapcloud.com
+  - DOMAIN-SUFFIX,myqnapcloud.io
+  - DOMAIN-SUFFIX,ls.apple.com
+  - DOMAIN-SUFFIX,clash.razord.top
+  - DOMAIN-SUFFIX,yacd.haishan.me
+  - DOMAIN-SUFFIX,download.epicgames.com
+  - DOMAIN-SUFFIX,tekqart.com
+  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-SUFFIX,dl.playstation.net
+  - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN-SUFFIX,internal
+  - DOMAIN-SUFFIX,fanatical.com
+  - DOMAIN-SUFFIX,humblebundle.com
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,valvesoftware.com
+  - PROCESS-NAME,wxedged
